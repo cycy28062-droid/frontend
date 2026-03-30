@@ -1,7 +1,7 @@
 <template>
   <div class="auth-wrapper">
 
-    <!-- LEFT PANEL -->
+    <!-- LEFT PANEL --->
     <div class="left-panel">
       <div class="orb orb1"></div>
       <div class="orb orb2"></div>
